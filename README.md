@@ -1,6 +1,9 @@
 # hsdecomp
 A decompiler for GHC-compiled Haskell
 
+## Update
+Now it can run with Python2.7
+
 ## Dependencies
 
 - [pyelftools](https://github.com/eliben/pyelftools)
